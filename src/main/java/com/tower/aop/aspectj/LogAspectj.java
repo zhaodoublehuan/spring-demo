@@ -1,4 +1,4 @@
-package com.tower.springdemo.aop.aspectj;
+package com.tower.aop.aspectj;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
@@ -25,7 +25,7 @@ public class LogAspectj {
     /**
      * 所有使用@PrintLog注解的方法作为切点
      */
-    @Pointcut("@annotation(com.tower.springdemo.aop.annotation.PrintLog)")
+    @Pointcut("@annotation(com.tower.aop.annotation.PrintLog)")
     public void printLogAnnotation(){
 
     }

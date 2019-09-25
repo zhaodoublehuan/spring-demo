@@ -1,4 +1,4 @@
-package com.tower.springdemo.ioc.service;
+package com.tower.ioc.service;
 
 import org.springframework.stereotype.Service;
 

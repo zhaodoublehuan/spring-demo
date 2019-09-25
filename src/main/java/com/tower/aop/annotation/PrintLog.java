@@ -1,4 +1,4 @@
-package com.tower.springdemo.aop.annotation;
+package com.tower.aop.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

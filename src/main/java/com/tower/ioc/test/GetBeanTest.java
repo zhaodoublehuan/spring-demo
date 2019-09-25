@@ -1,8 +1,7 @@
-package com.tower.springdemo.ioc.test;
+package com.tower.ioc.test;
 
-import com.tower.springdemo.aop.service.BusinessService;
-import com.tower.springdemo.ioc.config.AppConfig;
-import com.tower.springdemo.ioc.service.DemoService;
+import com.tower.ioc.config.AppConfig;
+import com.tower.ioc.service.DemoService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

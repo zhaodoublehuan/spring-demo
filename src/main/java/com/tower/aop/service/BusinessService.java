@@ -1,6 +1,6 @@
-package com.tower.springdemo.aop.service;
+package com.tower.aop.service;
 
-import com.tower.springdemo.aop.annotation.PrintLog;
+import com.tower.aop.annotation.PrintLog;
 import org.springframework.stereotype.Service;
 
 /**

@@ -1,4 +1,4 @@
-package com.tower.springdemo.ioc.config;
+package com.tower.ioc.config;
 
 
 import org.springframework.context.annotation.ComponentScan;
